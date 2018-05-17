@@ -26,6 +26,7 @@
     "npm": ">=5.6.0"
   },
   "devDependencies": {
+    "@types/node": "^10.1.1",
     "codelyzer": "^4.3.0",
     "css-loader": "^0.28.11",
     "file-loader": "^1.1.11",
